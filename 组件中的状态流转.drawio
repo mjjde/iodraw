@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-12-31T05:15:07.399Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="kuLrAdOoOoPu1Ylb9ucM" version="12.4.7" type="github" pages="2">
+<mxfile host="www.draw.io" modified="2019-12-31T05:32:06.338Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="FYK2x6eOvlOaEH5fRXhP" version="12.4.7" type="github" pages="2">
   <diagram id="2axeBVnMluATRMXS3iiU" name="第 1 页">
     <mxGraphModel dx="1773" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -103,14 +103,11 @@
         <mxCell id="FRVTPdvZiZSE1ToP57z7-31" value="生命周期" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;align=left;" parent="1" vertex="1">
           <mxGeometry x="270" y="382.5" width="60" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="FRVTPdvZiZSE1ToP57z7-41" value="condition" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="490" y="403" width="120" height="30" as="geometry"/>
-        </mxCell>
         <mxCell id="FRVTPdvZiZSE1ToP57z7-42" value="convertFunction" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="490" y="443" width="120" height="30" as="geometry"/>
+          <mxGeometry x="490" y="420" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="FRVTPdvZiZSE1ToP57z7-43" value="initState" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="490" y="483" width="120" height="30" as="geometry"/>
+          <mxGeometry x="490" y="473" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="FRVTPdvZiZSE1ToP57z7-44" value="build(viewService,dispatch,state)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="450" y="523" width="200" height="30" as="geometry"/>
@@ -139,7 +136,7 @@
         <mxCell id="FRVTPdvZiZSE1ToP57z7-57" value="生命周期" style="ellipse;shape=doubleEllipse;html=1;dashed=0;whitespace=wrap;aspect=fixed;align=left;" parent="1" vertex="1">
           <mxGeometry x="270" y="637.5" width="60" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="FRVTPdvZiZSE1ToP57z7-58" value="condition" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+        <mxCell id="FRVTPdvZiZSE1ToP57z7-58" value="shouldUpdate" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="490" y="658" width="120" height="30" as="geometry"/>
         </mxCell>
         <mxCell id="FRVTPdvZiZSE1ToP57z7-61" value="build(viewService,dispatch,state)" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
