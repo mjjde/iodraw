@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-12T13:23:30.503Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="T9IXke9TWyHk24SF751S" version="12.5.1" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-01-13T01:50:32.641Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="8XHD6WwdNMqea-DbCh6Y" version="12.5.1" type="github" pages="7">
   <diagram id="2axeBVnMluATRMXS3iiU" name="第 1 页">
     <mxGraphModel dx="1773" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -518,6 +518,46 @@
         </mxCell>
         <mxCell id="H1c9-3W14WJfdaMKAokw-23" value="&amp;nbsp;new Dispatch" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;" vertex="1" parent="H1c9-3W14WJfdaMKAokw-1">
           <mxGeometry x="740" y="200" width="120" height="20" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="g2fSq-JOUmjMLlns4vyv" name="第 6 页">
+    <mxGraphModel dx="946" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="z2S9Gc_hAYdRRIpUhFaK-0"/>
+        <mxCell id="z2S9Gc_hAYdRRIpUhFaK-1" parent="z2S9Gc_hAYdRRIpUhFaK-0"/>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Ow6b-D90np-b4tknjBJ0" name="第 7 页">
+    <mxGraphModel dx="946" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="8wlnFVSGe00K73YT1prM-0"/>
+        <mxCell id="8wlnFVSGe00K73YT1prM-1" parent="8wlnFVSGe00K73YT1prM-0"/>
+        <mxCell id="eBXWmFGo1g0peE4alOtr-2" value="" style="group" vertex="1" connectable="0" parent="8wlnFVSGe00K73YT1prM-1">
+          <mxGeometry x="220" y="120" width="250" height="270" as="geometry"/>
+        </mxCell>
+        <mxCell id="8wlnFVSGe00K73YT1prM-2" value="Page" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eBXWmFGo1g0peE4alOtr-2">
+          <mxGeometry width="250" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8wlnFVSGe00K73YT1prM-3" value="View" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eBXWmFGo1g0peE4alOtr-2">
+          <mxGeometry y="70" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8wlnFVSGe00K73YT1prM-4" value="State" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eBXWmFGo1g0peE4alOtr-2">
+          <mxGeometry x="130" y="70" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8wlnFVSGe00K73YT1prM-5" value="Reducer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eBXWmFGo1g0peE4alOtr-2">
+          <mxGeometry y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8wlnFVSGe00K73YT1prM-6" value="Effect" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eBXWmFGo1g0peE4alOtr-2">
+          <mxGeometry x="130" y="140" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8wlnFVSGe00K73YT1prM-8" value="Action" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eBXWmFGo1g0peE4alOtr-2">
+          <mxGeometry y="210" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="8wlnFVSGe00K73YT1prM-9" value="Store" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="eBXWmFGo1g0peE4alOtr-2">
+          <mxGeometry x="130" y="210" width="120" height="60" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
