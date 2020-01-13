@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-13T02:58:16.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="81EcRQHT8-oJU6UkctZK" version="12.5.1" type="github" pages="9">
+<mxfile host="www.draw.io" modified="2020-01-13T03:00:03.581Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36" etag="VNmEVVENjZuo_qR61kpK" version="12.5.1" type="github" pages="9">
   <diagram id="2axeBVnMluATRMXS3iiU" name="第 1 页">
     <mxGraphModel dx="1773" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -803,7 +803,7 @@
             <mxPoint x="420" y="220" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="TZ29hn3eG8H6Upty2gMZ-7" value="创建&lt;br&gt;Store，Action，Reducer" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#222222;fillColor=#FFFFFF;fontColor=#222222;" vertex="1" parent="TZ29hn3eG8H6Upty2gMZ-1">
+        <mxCell id="TZ29hn3eG8H6Upty2gMZ-7" value="创建&lt;br&gt;Store，Action，Reducer..." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#222222;fillColor=#FFFFFF;fontColor=#222222;" vertex="1" parent="TZ29hn3eG8H6Upty2gMZ-1">
           <mxGeometry x="690" y="195" width="160" height="50" as="geometry"/>
         </mxCell>
         <mxCell id="TZ29hn3eG8H6Upty2gMZ-8" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#222222;" vertex="1" parent="TZ29hn3eG8H6Upty2gMZ-1">
